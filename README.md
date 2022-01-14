@@ -1,4 +1,5 @@
-# device_asus_A001D
+# device tree for a001d
+# Asus Zenfone MaxShot/PlusM2/ShotPlus 
 
 this is a device full of bugs and problems!!!
 you developer, will suffer with this crap, good luck!
