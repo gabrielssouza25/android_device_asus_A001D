@@ -28,18 +28,13 @@ PRODUCT_GMS_CLIENTID_BASE := android-asus
 # Inherit some common source stuff
 TARGET_BOOT_ANIMATION_RES := 1080
 TARGET_INCLUDE_LIVE_WALLPAPERS := false
-# Inherit some common AOSP stuff.
-$(call inherit-product, vendor/evolution/config/common_full_phone.mk)
-EVO_DONATE_URL := https://t.me/zmxsh
-EVO_MAINTAINER := JhonatanMikael
-EVO_SUPPORT_URL := https://t.me/jhonnytech
+$(call inherit-product, vendor/aosp/config/common_full_phone.mk)
 
-# Inherit some common CAFEX stuff
-$(call inherit-product, vendor/evolution/common.mk)
+
 
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := A001D
-PRODUCT_NAME := evolution_A001D
+PRODUCT_NAME := aosp_A001D
 BOARD_VENDOR := asus
 PRODUCT_BRAND := asus
 PRODUCT_MODEL := ASUS_A001D
