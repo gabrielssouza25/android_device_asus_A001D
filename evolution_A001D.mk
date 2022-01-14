@@ -34,9 +34,6 @@ EVO_DONATE_URL := https://t.me/zmxsh
 EVO_MAINTAINER := JhonatanMikael
 EVO_SUPPORT_URL := https://t.me/jhonnytech
 
-# Inherit some common CAFEX stuff
-$(call inherit-product, vendor/evolution/common.mk)
-
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := A001D
 PRODUCT_NAME := evolution_A001D
