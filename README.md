@@ -1,5 +1,5 @@
 # DEVICE TREE FOR A001D(ZB634KL)
-# Asus Zenfone MaxShot/PlusM2/ShotPlus 
+Asus Zenfone MaxShot/PlusM2/ShotPlus 
 
 this is a device full of bugs and problems!!!
 you developer, will suffer with this crap, good luck!
