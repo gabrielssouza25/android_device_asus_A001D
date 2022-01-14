@@ -434,6 +434,11 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     android.hardware.vibrator@1.0-impl \
     android.hardware.vibrator@1.0-service
+    
+    # Overlays evox
+DEVICE_PACKAGE_OVERLAYS += \
+	 $(DEVICE_PATH)/overlay \
+	 $(DEVICE_PATH)/overlay-evo
 
 # Whitelisted app
 PRODUCT_COPY_FILES += \
