@@ -5,11 +5,13 @@ this is a device full of bugs and problems!!!
 you developer, will suffer with this crap, good luck!
 
 IF YOU HAVE QUESTIONS, PROBLEMS ETC, CLICK ON ONE OF THE LINKS BELOW
-THEY WILL REDIRECT YOU TO THE A001D SUPPORT GROUPS AND UPDATES!!
+THEY WILL REDIRECT YOU TO THE SUPPORT GROUPS, UPDATES
+AND IF YOU ARE A DEVELOPER AND WOULD LIKE TO HELP US JOIN THE A001D TEAM BY CLICKING THE THIRD BUTTON
 👇 👇 👇
 
 [![SUPPORT](https://cdn1.telesco.pe/file/UH5Zp-vlLjh-PH-jADUewMu6uXshbTDC01ABNcbzux1svvu06FpGfxcsYKBYICokTzNEz4N9ILraRCtKR3akScEHr2X6EkZ20yDpOtVyS6KYJs-WPq6wZXUn1bQgPCzy_mNkbutVRJ2Nd9DpmCfUfpanbnA1kIAQ2XhHb5Lof9gwJvREClO73qrW_412HaHS7ULggpgSHlSihxwPzvm470oYKwZoY_-xNSwbkSqONN3LPy6Buo9fC9eK45emiyKaL_8BlPoGfArcZxa7EE-CpNBlMSkjm4mxe39k_l-hbsB8CnXAgZz_Jrjha4TOTdEIDm1waSYyIYzvF-B5RoLaAQ.jpg)](https://t.me/a001d)
 [![UPDATES](https://cdn1.telesco.pe/file/QBOLN2T5INscd20tQmOt3ULg0Ov8J0IrXjuoExNolbwyqtTglyVxlEo5ZAZlzuKe9BhQQHGWjxHn7anGwdXeh0RP9y5TcwFKexNAxWiCFFPyxHlMspCR12_w7ef4nE0hpcuHewO9pAmOSKRqwKIVTwHjacz5_GSdQP6w6ZpXCJsIf31arVqiFPsY95hb9ZpWDuYSBCzVV-fuIq9WpcS_qCbtIwOWy8AQKkNCFQgg0B5L0-Po-hQmL5E8kzQvenzPInk2TPqcbUAgK-0CGNVzNu--h2ofvFUDO3QIjpvV2BMp2da3Vs_J6gAatYQISHXnaaeKk0OYOHaPfz6hwFJl8w.jpg)](https://t.me/Max_Shot_M2)
+[![DEVELOPERS](https://cdn1.telesco.pe/file/dlQDHxaLspuhsKAv2gSgsprwHdrmE7C5Ffpj1PIuhE8emNl1XHr46xjLpsB3Y2ztGTuNfxC_CsGkqI5g4m4JxR9UTEX1pgh_qQWFReBaMg-ri6G2bPvqm8I-wZdly3Cbc75n3434apP38tmG4_BjZQscjo6Xi0xjbrJ1W4VSQgDhTgxKXwqgpX9v3yslBiGkRADJVQcxjTE55lBJlVlilhvIVgl8EyFbd6mFXBvkux-YghnuXoQM_y4NP92pjwR-c9jYYw1dhlAGFXQsACzAgcU7pt22YYrBfc_CpKihksB2_ro71pLHcdjHfW3E7TO3zT6D5lozz--Q0ib2J3OWag.jpg)](https://t.me/joinchat/VlCsLRPSsFqy0T3n)
 
 ## Device specifications
 
