@@ -7,7 +7,8 @@ you developer, will suffer with this crap, good luck!
 IF YOU HAVE QUESTIONS, PROBLEMS ETC, CLICK ON ONE OF THE LINKS BELOW
 THEY WILL REDIRECT YOU TO THE SUPPORT GROUPS, UPDATES
 AND IF YOU ARE A DEVELOPER AND WOULD LIKE TO HELP US JOIN THE A001D TEAM BY CLICKING THE THIRD BUTTON
-👇 👇 👇
+
+👇                        👇                        👇
 
 [![SUPPORT](https://cdn1.telesco.pe/file/UH5Zp-vlLjh-PH-jADUewMu6uXshbTDC01ABNcbzux1svvu06FpGfxcsYKBYICokTzNEz4N9ILraRCtKR3akScEHr2X6EkZ20yDpOtVyS6KYJs-WPq6wZXUn1bQgPCzy_mNkbutVRJ2Nd9DpmCfUfpanbnA1kIAQ2XhHb5Lof9gwJvREClO73qrW_412HaHS7ULggpgSHlSihxwPzvm470oYKwZoY_-xNSwbkSqONN3LPy6Buo9fC9eK45emiyKaL_8BlPoGfArcZxa7EE-CpNBlMSkjm4mxe39k_l-hbsB8CnXAgZz_Jrjha4TOTdEIDm1waSYyIYzvF-B5RoLaAQ.jpg)](https://t.me/a001d)
 [![UPDATES](https://cdn1.telesco.pe/file/QBOLN2T5INscd20tQmOt3ULg0Ov8J0IrXjuoExNolbwyqtTglyVxlEo5ZAZlzuKe9BhQQHGWjxHn7anGwdXeh0RP9y5TcwFKexNAxWiCFFPyxHlMspCR12_w7ef4nE0hpcuHewO9pAmOSKRqwKIVTwHjacz5_GSdQP6w6ZpXCJsIf31arVqiFPsY95hb9ZpWDuYSBCzVV-fuIq9WpcS_qCbtIwOWy8AQKkNCFQgg0B5L0-Po-hQmL5E8kzQvenzPInk2TPqcbUAgK-0CGNVzNu--h2ofvFUDO3QIjpvV2BMp2da3Vs_J6gAatYQISHXnaaeKk0OYOHaPfz6hwFJl8w.jpg)](https://t.me/Max_Shot_M2)
