@@ -24,6 +24,4 @@ Asus Zenfone Max Pro M1 was announced and released in April 2018.
 | Front camera |8 MP 1080p@30fps                                 |
 
 ## Device picture
-
-![Asus Zenfone MaxShot/PlusM2/ShotPlus ](https://www.asus.com/media/br/products/QBvv47GlWvjC7674/4iBYU4V0sqZnOiuu_setting_xxx_0_90_end_800.png)
 ![Asus Zenfone MaxShot/PlusM2/ShotPlus ](https://www.asus.com/media/br/products/QBvv47GlWvjC7674/zug6brMnCUEAPKe2_setting_xxx_0_90_end_800.png)
