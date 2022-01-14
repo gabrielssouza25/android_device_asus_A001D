@@ -26,3 +26,4 @@ Asus Zenfone Max Pro M1 was announced and released in April 2018.
 ## Device picture
 
 ![Asus Zenfone MaxShot/PlusM2/ShotPlus ](https://www.asus.com/media/br/products/QBvv47GlWvjC7674/4iBYU4V0sqZnOiuu_setting_xxx_0_90_end_800.png)
+![Asus Zenfone MaxShot/PlusM2/ShotPlus ](https://fdn.gsmarena.com/imgroot/news/19/03/asus-max-shot-max-plus-m2-2/-727/gsmarena_006.jpg)
