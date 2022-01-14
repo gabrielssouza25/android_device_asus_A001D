@@ -1,4 +1,4 @@
-# device_asus_X00T
+# device_asus_A001D
 
 this is a device full of bugs and problems!!!
 you developer, will suffer with this crap, good luck!
