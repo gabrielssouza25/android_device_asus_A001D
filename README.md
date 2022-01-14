@@ -3,6 +3,7 @@ Asus Zenfone MaxShot/PlusM2/ShotPlus
 
 this is a device full of bugs and problems!!!
 you developer, will suffer with this crap, good luck!
+
 [![SUPPORT](https://img.shields.io/sourceforge/dt/evolution-x.svg)](https://t.me/a001d)
 
 ## Device specifications
