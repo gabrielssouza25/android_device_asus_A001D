@@ -14,4 +14,4 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/evolution_A001D.mk
+    $(LOCAL_DIR)/aex_A001D.mk
