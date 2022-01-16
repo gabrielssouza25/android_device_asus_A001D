@@ -57,6 +57,8 @@ vendor.camera.aux.packagelist2=com.android.systemui,com.huaqin.cameraautotest,co
 vendor.camera.aux.packageblacklist=com.discord \
 persist.vendor.qti.telephony.vt_cam_interface=2 \
 persist.camera.exif.rotation = 0
+persist.camera.exif.rotation=off 
+persist.camera.lib2d.rotation=on
 
 # Charger
 PRODUCT_PRODUCT_PROPERTIES += \
