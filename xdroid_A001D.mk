@@ -24,19 +24,24 @@ $(call inherit-product, device/asus/A001D/device.mk)
 # Inherit some common aosp stuff.
 TARGET_GAPPS_ARCH := arm64
 PRODUCT_GMS_CLIENTID_BASE := android-asus
+XDROID_BUILD_TYPE := STBL-4.4
+XDROID_BOOT_DARK := true
+XDROID_UI_BLUR := true
+TARGET_SUPPORTS_GOOGLE_RECORDER := true
+TARGET_INCLUDE_WIFI_EXT := true
+USE_GAPPS := true
 
 # Inherit some common source stuff
 TARGET_BOOT_ANIMATION_RES := 1080
 TARGET_INCLUDE_LIVE_WALLPAPERS := false
 # Inherit some common AOSP stuff.
-$(call inherit-product, vendor/aosp/config/common_full_phone.mk)
+$(call inherit-product, vendor/xdroid/config/common.mk)
 
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := A001D
-PRODUCT_NAME := aosp_A001D
+PRODUCT_NAME := xdroid_A001D
 BOARD_VENDOR := asus
 PRODUCT_BRAND := asus
 PRODUCT_MODEL := ASUS_A001D
 PRODUCT_MANUFACTURER := asus
 TARGET_VENDOR := asus
-
